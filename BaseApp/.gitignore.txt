@@ -1,6 +1,0 @@
-*.csproj
-*.pidb
-*.sln
-*.userprefs
-Library
-Temp
