@@ -2,6 +2,7 @@
 *.pidb
 *.sln
 *.userprefs
+*.obj
 *.suo
 *.user
 *.cache
