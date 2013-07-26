@@ -2,5 +2,9 @@
 *.pidb
 *.sln
 *.userprefs
+*.suo
+*.user
+*.cache
+*.Cache
 Library
 Temp
