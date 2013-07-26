@@ -2,7 +2,6 @@
 *.pidb
 *.sln
 *.userprefs
-*.obj
 *.suo
 *.user
 *.cache
@@ -10,3 +9,5 @@
 Library
 Temp
 BaseApp/obj/Debug/UnityVS.BaseApp.CSharp.csproj.FileListAbsolute.txt
+_ReSharper.*
+*.resharper
