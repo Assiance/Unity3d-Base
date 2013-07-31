@@ -1,7 +1,7 @@
 using UnityEngine;
 using System.Collections;
 
-public class blank3 : MonoBehaviour
+public class Blank3 : MonoBehaviour
 {
     // Use this for initialization
     private void Start()
